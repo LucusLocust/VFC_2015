@@ -5,3 +5,5 @@ Legacy code base ... lots of bad practice use of mixed C and C++ ... however, fa
 
 
 Slightly updated legacy code base for the original Visual Flow Coder tools (circa 1999) for WIndows. Updated for Visual Studio 2013 compliation, Win 7/8, multiple monitors, and new support for *.vfc file type.
+
+This code base follows the GPL terms of license.
